@@ -48,7 +48,7 @@
         "search.useIgnoreFiles": false
       },
       "extensions": [
-        "ms-python.python",
+        "ms-python.vscode-pylance",
         "ms-iot.vscode-ros",
         "ms-vscode.cpptools",
         "redhat.vscode-yaml",
